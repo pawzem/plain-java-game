@@ -1,4 +1,4 @@
-Plain java simple project.
+Plain java simple project(old sources uploaded to VCS).
 
 #constraints
  - 1 week for development
